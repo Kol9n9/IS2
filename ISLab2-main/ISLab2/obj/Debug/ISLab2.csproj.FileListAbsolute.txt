@@ -1,0 +1,29 @@
+C:\Users\User\source\repos\ISLab2\ISLab2\bin\Debug\ISLab2.exe.config
+C:\Users\User\source\repos\ISLab2\ISLab2\bin\Debug\ISLab2.exe
+C:\Users\User\source\repos\ISLab2\ISLab2\bin\Debug\ISLab2.pdb
+C:\Users\User\source\repos\ISLab2\ISLab2\obj\Debug\ISLab2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ISLab2\ISLab2\obj\Debug\ISLab2.Form1.resources
+C:\Users\User\source\repos\ISLab2\ISLab2\obj\Debug\ISLab2.Properties.Resources.resources
+C:\Users\User\source\repos\ISLab2\ISLab2\obj\Debug\ISLab2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ISLab2\ISLab2\obj\Debug\ISLab2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ISLab2\ISLab2\obj\Debug\ISLab2.exe
+C:\Users\User\source\repos\ISLab2\ISLab2\obj\Debug\ISLab2.pdb
+C:\Users\maksi\Favorites\Ссылки\Individual_Tasks\Умные системы\ИС недвижимость\ISLab2-main\ISLab2-main\ISLab2\obj\Debug\ISLab2.Form1.resources
+C:\Users\maksi\Favorites\Ссылки\Individual_Tasks\Умные системы\ИС недвижимость\ISLab2-main\ISLab2-main\ISLab2\obj\Debug\ISLab2.Properties.Resources.resources
+C:\Users\maksi\Favorites\Ссылки\Individual_Tasks\Умные системы\ИС недвижимость\ISLab2-main\ISLab2-main\ISLab2\obj\Debug\ISLab2.csproj.GenerateResource.cache
+C:\Users\maksi\Favorites\Ссылки\Individual_Tasks\Умные системы\ИС недвижимость\ISLab2-main\ISLab2-main\ISLab2\obj\Debug\ISLab2.csproj.CoreCompileInputs.cache
+C:\Users\maksi\Favorites\Ссылки\Individual_Tasks\Умные системы\ИС недвижимость\ISLab2-main\ISLab2-main\ISLab2\obj\Debug\ISLab2.exe
+C:\Users\maksi\Favorites\Ссылки\Individual_Tasks\Умные системы\ИС недвижимость\ISLab2-main\ISLab2-main\ISLab2\obj\Debug\ISLab2.pdb
+C:\Users\maksi\Favorites\Ссылки\Individual_Tasks\Умные системы\ИС недвижимость\ISLab2-main\ISLab2-main — копия\ISLab2\obj\Debug\ISLab2.csproj.AssemblyReference.cache
+C:\Users\maksi\Favorites\Ссылки\Individual_Tasks\Умные системы\ИС недвижимость\ISLab2-main\ISLab2-main — копия\ISLab2\obj\Debug\ISLab2.Form1.resources
+C:\Users\maksi\Favorites\Ссылки\Individual_Tasks\Умные системы\ИС недвижимость\ISLab2-main\ISLab2-main — копия\ISLab2\obj\Debug\ISLab2.Properties.Resources.resources
+C:\Users\maksi\Favorites\Ссылки\Individual_Tasks\Умные системы\ИС недвижимость\ISLab2-main\ISLab2-main — копия\ISLab2\obj\Debug\ISLab2.csproj.GenerateResource.cache
+C:\Users\maksi\Favorites\Ссылки\Individual_Tasks\Умные системы\ИС недвижимость\ISLab2-main\ISLab2-main — копия\ISLab2\obj\Debug\ISLab2.csproj.CoreCompileInputs.cache
+C:\Users\maksi\Favorites\Ссылки\Individual_Tasks\Умные системы\ИС недвижимость\ISLab2-main\ISLab2-main — копия\ISLab2\obj\Debug\ISLab2.exe
+C:\Users\maksi\Favorites\Ссылки\Individual_Tasks\Умные системы\ИС недвижимость\ISLab2-main\ISLab2-main — копия\ISLab2\obj\Debug\ISLab2.pdb
+C:\Users\maksi\Favorites\Ссылки\Individual_Tasks\Умные системы\ИС недвижимость\ISLab2-main\ISLab2-main — копия\ISLab2\bin\Debug\ISLab2.exe.config
+C:\Users\maksi\Favorites\Ссылки\Individual_Tasks\Умные системы\ИС недвижимость\ISLab2-main\ISLab2-main — копия\ISLab2\bin\Debug\ISLab2.exe
+C:\Users\maksi\Favorites\Ссылки\Individual_Tasks\Умные системы\ИС недвижимость\ISLab2-main\ISLab2-main — копия\ISLab2\bin\Debug\ISLab2.pdb
+C:\Users\maksi\Favorites\Ссылки\Individual_Tasks\Умные системы\ИС недвижимость\ISLab2-main\ISLab2-main\ISLab2\bin\Debug\ISLab2.exe.config
+C:\Users\maksi\Favorites\Ссылки\Individual_Tasks\Умные системы\ИС недвижимость\ISLab2-main\ISLab2-main\ISLab2\bin\Debug\ISLab2.exe
+C:\Users\maksi\Favorites\Ссылки\Individual_Tasks\Умные системы\ИС недвижимость\ISLab2-main\ISLab2-main\ISLab2\bin\Debug\ISLab2.pdb
